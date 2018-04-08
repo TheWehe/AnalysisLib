@@ -1,5 +1,5 @@
 # AnalysisLib
-mathematical C++ library for analysis tasks
+C++ library for simple calculus
 
 [WIP]
 
