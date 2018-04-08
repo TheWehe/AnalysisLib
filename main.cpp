@@ -15,6 +15,4 @@ int main()
 	std::cout << std::endl << f->GetValue(2.0) << std::endl;
 
 	f->GetDerivative()->Print();
-
-	while (true);
 }
